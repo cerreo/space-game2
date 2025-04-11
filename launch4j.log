@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\pelon\Documents\exe\kui\GLAM-SPACE.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\pelon\Documents\exe\kui\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	.\jre
+Check launcher:	C:\Users\pelon\Documents\exe\kui\.\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_442 / 64-Bit (OK)
+Launcher:	C:\Users\pelon\Documents\exe\kui\.\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\pelon\Documents\exe\kui\GLAM-SPACE.exe"
+Args length:	54/32768 chars
+Exit code:	0
